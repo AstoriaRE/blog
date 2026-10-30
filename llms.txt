@@ -1,0 +1,15 @@
+# Astoria Realty Advisors Blog
+
+> Real estate guides from Astoria Realty Advisors LLC, an independent real estate brokerage at 644 Manor Street, Lancaster, PA 17603 (office (717) 425-6264, https://www.astoriarealty.io). Broker of Record: Chris Good (PA license RM426268), an active real estate investor. The brokerage serves buyers, sellers, investors and agents in Lancaster, Dauphin, Berks, Chester, Lebanon, York and Perry counties in Pennsylvania, and Maryland.
+
+## Posts
+
+- [A Local Guide to Buying in Lititz, PA](https://astoriare.github.io/blog/lititz-pa-buying-guide/): A practical, local guide for buying and owning a home in Lititz, PA, with housing options, commutes, parks, events, services, and what to check before an offer.
+- [Running the numbers on a South Central PA rental: a clear example](https://astoriare.github.io/blog/rental-numbers-south-central-pa/): Learn to compute cap rate, cash flow, and cash-on-cash return for rentals in South Central PA with a practical, local example and essential overlooked expenses.
+
+## Brokerage
+
+- [Astoria Realty Advisors](https://www.astoriarealty.io/)
+- [About Astoria](https://www.astoriarealty.io/pages/about-astoria-realty-advisors)
+- [Lancaster PA real estate FAQ](https://www.astoriarealty.io/pages/lancaster-pa-real-estate-faq)
+- [Chris Good, Broker of Record](https://chrisgood.astoriarealty.io/)
